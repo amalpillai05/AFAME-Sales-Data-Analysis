@@ -1,4 +1,5 @@
-# Sales Data Analysis
+# SALES DATA ANALYSIS
+
 # PROJECT OVERVIEW :
 In the ever-evolving landscape of commerce, understanding sales data is paramount for businesses striving to thrive. Sales Data Analysis harnesses the power of data analytics to extract valuable insights, enabling informed decision-making. By scrutinizing sales trends, customer behavior, and market dynamics, organizations gain actionable intelligence to optimize strategies, enhance customer satisfaction, and drive revenue growth. From identifying opportunities to refining marketing tactics, Sales Data Analysis empowers businesses to adapt, innovate, and succeed in today's competitive marketplace.
 
@@ -65,7 +66,7 @@ The analysis aims to:
 # CONCLUSION 
 Based on the insights gathered, the company should focus on leveraging top-selling products, addressing seasonal fluctuations, and targeting regions with lower revenue figures to optimize sales performance and drive revenue growth. 
 
-**Key Findings:**
+**KEY FINDINGS :**
 
 1. The year 2014 witnessed the highest number of items ordered, with a significant increase in sales compared to 2011.
 
@@ -77,7 +78,7 @@ Based on the insights gathered, the company should focus on leveraging top-selli
 
 5. The Central region leads in revenue generation, while Canada demonstrates the lowest revenue figures.
 
-**Recommendations:**
+**RECOMMENDATIONS :**
 
 1. Focus on leveraging the popularity of top-selling products like Staples to drive further revenue growth.
 
@@ -89,7 +90,7 @@ Based on the insights gathered, the company should focus on leveraging top-selli
 
 5. Continuously monitor and analyze sales data to identify emerging trends, customer preferences, and areas for improvement.
 
-**Key Areas of Focus:**
+**KEY AREAS OF FOCUS :**
 
 1. Product Performance: Evaluate the performance of individual products and categories to identify opportunities for expansion or optimization.
 
@@ -102,4 +103,7 @@ Based on the insights gathered, the company should focus on leveraging top-selli
 5. Customer Insights: Utilize sales data to gain insights into customer behavior, preferences, and satisfaction levels, informing customer-centric strategies and initiatives.
 
 By addressing these key findings and recommendations, the company can optimize sales performance, drive revenue growth, and enhance overall business success.
+
+# ACKNOWLEDGEMENTS
+Special thanks to AFAME TECHNOLOGIES for providing the Sales dataset used in this analysis.
 
