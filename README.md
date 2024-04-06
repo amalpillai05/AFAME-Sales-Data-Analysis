@@ -50,18 +50,14 @@ The analysis aims to:
 
 **2. Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
-**3. Database:** MYSQL (for manipulation)
-
-**4. Development Environment:** Jupyter Notebook
+**3. Development Environment:** Jupyter Notebook
 
 # FILES INCLUDED
 **1. Sales_Data_Analysis.ipynb:** Jupyter Notebook containing the data analysis code and visualizations.
 
-**2. Sales Data Analysis.sql:** SQL file (Analysis and Manipulation).
+**2. ECOMM DATA.xlsx:** Excel file containing the Sales dataset used for analysis.
 
-**3. ECOMM DATA.xlsx:** Excel file containing the Sales dataset used for analysis.
-
-**4. README.md:** Project overview, dataset description, analysis objectives, tools and technologies, files included, conclusion and acknowledgements.
+**3. README.md:** Project overview, dataset description, analysis objectives, tools and technologies, files included, conclusion and acknowledgements.
 
 # CONCLUSION 
 Based on the insights gathered, the company should focus on leveraging top-selling products, addressing seasonal fluctuations, and targeting regions with lower revenue figures to optimize sales performance and drive revenue growth. 
